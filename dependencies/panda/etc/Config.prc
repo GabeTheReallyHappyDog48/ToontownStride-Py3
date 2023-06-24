@@ -42,7 +42,7 @@ depth-bits 1
 color-bits 1 1 1
 alpha-bits 0
 stencil-bits 0
-multisamples 0
+multisamples 110
 
 # These control the amount of output Panda gives for some various
 # categories.  The severity levels, in order, are "spam", "debug",
